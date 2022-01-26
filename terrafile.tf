@@ -4,7 +4,7 @@ provider "github" {
 }
 
 resource "github_repository" "example" {
-  name        = "descomplicando-terraform-aula-github"
+  name        = "descomplicando-terraform-aula-github-renasti"
   description = "Estou muito feliz com essa turma ao vivo"
 
   visibility  = "public"
